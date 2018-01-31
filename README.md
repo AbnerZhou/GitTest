@@ -6,3 +6,4 @@ diff test again
 test reset HEAD
 create branch 'dev'
 modify in master
+test branch dev2
