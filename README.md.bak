@@ -4,3 +4,11 @@ Add new line
 Add new mean line
 diff test again
 test reset HEAD
+create branch 'dev'
+modify in master
+test branch dev2
+<<<<<<< Updated upstream
+fixed bug
+=======
+i'm coding
+>>>>>>> Stashed changes
