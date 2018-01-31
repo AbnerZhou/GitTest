@@ -7,3 +7,4 @@ test reset HEAD
 create branch 'dev'
 modify in master
 test branch dev2
+fixed bug
