@@ -7,8 +7,5 @@ test reset HEAD
 create branch 'dev'
 modify in master
 test branch dev2
-<<<<<<< Updated upstream
 fixed bug
-=======
->>>>>>> Stashed changes
 i'm coding
